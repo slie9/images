@@ -1,1 +1,1 @@
-# Uploading Images & Gifs for my readme
+# Uploading Images & Gifs for my README
